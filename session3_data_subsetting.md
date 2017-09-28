@@ -8,7 +8,6 @@ Upon completion of this session, you will be able to do the following:
 - Add new observations and variables to a dataset
 - Reorder datasets
 
-
 ## Overview
 
 After importing a dataset into R, the first steps in data cleaning and analysis often involving subsetting a dataset based on values of the data. Here we will primarly cover how to do these tasks using the syntax of `dplyr`, a new and often times easier to understand framework for data manipulation.

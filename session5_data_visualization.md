@@ -26,6 +26,7 @@ Base R plotting is both good and bad in that you can customize basically anythin
 This [lecture from our winter R class](http://aejaffe.com/winterR_2017//Data_Visualization/lecture/Data_Visualization.html) covers many different plotting types in both base R and `ggplot2`.
 
 This [lab](http://aejaffe.com/winterR_2017//Data_Visualization/lab/Data_Visualization_Lab.R) works through some examples with data from the local [Charm City Circulator](http://www.charmcitycirculator.com/). 
+Here is the [key](http://aejaffe.com/winterR_2017//Data_Visualization/lab/Data_Visualization_Lab_key.R)
 
 This [section from Hadley Wickham's "R for Data Science" book](http://r4ds.had.co.nz/data-visualisation.html) offers more details on visualization data with `ggplot2` including exercises.
 
