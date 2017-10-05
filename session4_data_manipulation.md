@@ -17,6 +17,7 @@ Upon completion of this session, you will be able to do the following:
 - Review `readr()` and `readxl()`
 - [`tibble`](http://r4ds.had.co.nz/tibbles.html) review 
 - https://cran.r-project.org/bin/windows/Rtools/
+
 ### `dplyr` for data summarization
 
 - This [slide deck](https://docs.google.com/presentation/d/1XW9Ozl2zrUABd7PNLqxwCyXuZbG61Ll2UgAt6CqUCnA/edit?usp=sharing) covers some concepts in data manipulation using `dplyr` and pipes (`%>%`)

@@ -16,7 +16,7 @@ Upon completion of this session, you will be able to do the following:
 
 RStudio is a useful integrated development environment (IDE) for R that makes the language easier to learn. It is recommended for newcomers, but also has pretty powerful functionality for expert users, particularly package developers. 
 
-View these slides on an [introduction to RStudio](http://aejaffe.com/winterR_2017/RStudio/lecture/RStudio.html) from my and John Muschell's winter institute class: 
+View these slides on an [introduction to RStudio](http://aejaffe.com/winterR_2017/RStudio/lecture/RStudio.html) - [PDF](http://aejaffe.com/winterR_2017/RStudio/lecture/RStudio.pdf) - from my and John Muschell's winter institute class: 
 This ["cheat sheet"](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) contains many useful commands, shortcuts, and descriptions
 
 These two resources teach the basics of R, and working through both is highly recommended:
@@ -26,7 +26,7 @@ These two resources teach the basics of R, and working through both is highly re
 
 ### B. Data Import in R
 
-- View these slides on [data import in R](http://aejaffe.com/winterR_2017/Data_IO/lecture/Data_IO.html) my and John Muschelli's class. Try to work along side the lecture notes in your own R session. 
+- View these slides on [data import in R](http://aejaffe.com/winterR_2017/Data_IO/lecture/Data_IO.html) - [PDF](http://aejaffe.com/winterR_2017/Data_IO/lecture/Data_IO.pdf) my and John Muschelli's class. Try to work along side the lecture notes in your own R session. 
 - Try this [lab on data import in R](http://sisbid.github.io/Module1/labs/data-io-lab.Rmd) from my and Jeff Leek's summer class at UW
 - Bonus: Commit and push code from working alongside the lecture and doing the lab into your GitHub repository for the class
 
