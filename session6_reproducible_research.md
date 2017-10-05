@@ -38,7 +38,7 @@ Resources from R Studio:
 Make slides for presentations with imbedded R code and results
 - [Ioslides](http://rmarkdown.rstudio.com/ioslides_presentation_format.html)
 - [Slidy](http://rmarkdown.rstudio.com/slidy_presentation_format.html)
-- [Beamer](http://rmarkdown.rstudio.com/beamer_presentation_format.html), needs (La)teX
+- [Beamer](http://rmarkdown.rstudio.com/beamer_presentation_format.html), needs (La)TeX
 - Some discussion and comparison is [here](http://data-analytics.net/cep/Schedule_files/presentations_demo.html)
 
 Nicer tables for placement in R Markdown documents:
