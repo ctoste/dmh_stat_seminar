@@ -3,7 +3,7 @@
 ## Objectives
 
 - Learn how to reshape data between wide and long formats
-- Leard how to merge multiple datasets
+- Learn how to merge multiple datasets
 
 ### Tidy Data
 
@@ -27,13 +27,16 @@ Via this [Introduction](https://cran.r-project.org/web/packages/tidyr/vignettes/
 
 [Separating and Uniting](http://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) from R for Data Science. Try the exercises.
 
+Some Answers to the R4DS are [here](https://jrnold.github.io/e4qf/) via Jeffrey B. Arnold
+
+
 ### Merging
 
 [Relational Data](http://r4ds.had.co.nz/relational-data.html#introduction-7) from R for Data Science
 
 [Superheroes](http://stat545.com/bit001_dplyr-cheatsheet.html) from Jenny Bryan
 
-[Lab](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lab/Data_Manipulation_Lab.R)
+[Lab](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lab/Data_Manipulation_Lab.R) and [Key](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lab/Data_Manipulation_Lab_Key.R]
 
 ### Additional Content
 
