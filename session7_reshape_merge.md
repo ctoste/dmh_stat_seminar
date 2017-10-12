@@ -9,7 +9,7 @@
 
 "Tidy Data" refers to the structure of a dataset with regard to values and observations:
 
-Via this [Introduction](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)]
+Via this [Introduction](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 
 1. Each variable forms a column.
 2. Each observation forms a row.
