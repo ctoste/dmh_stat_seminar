@@ -21,7 +21,7 @@ Via this [Introduction](https://cran.r-project.org/web/packages/tidyr/vignettes/
 
 ### Reshaping
 
-[This lecture](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lecture/Manipulating_Data_in_R.html) from myself and John Muschelli covers some basics [PDF](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lecture/Manipulating_Data_in_R.html)
+[This lecture](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lecture/Manipulating_Data_in_R.html) from myself and John Muschelli covers some basics ([PDF](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lecture/Manipulating_Data_in_R.html))
 
 [Spreading and Gathering](http://r4ds.had.co.nz/tidy-data.html#spreading-and-gathering) from R for Data Science (via Hadley Wickham). Try the exercises
 
