@@ -33,6 +33,8 @@ Via this [Introduction](https://cran.r-project.org/web/packages/tidyr/vignettes/
 
 [Superheroes](http://stat545.com/bit001_dplyr-cheatsheet.html) from Jenny Bryan
 
+[Lab](http://aejaffe.com/winterR_2017/Manipulating_Data_in_R/lab/Data_Manipulation_Lab.R)
+
 ### Additional Content
 
 [Data Wrangling Cheetsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
