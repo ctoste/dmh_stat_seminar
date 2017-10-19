@@ -1,6 +1,4 @@
-# dmh_stat_seminar
-
-Material for 330.805.01 – Seminar On Statistical Methods for Mental Health (Q1 2017)
+# 330.805.01 – Seminar On Statistical Methods for Mental Health (Q1 2017)
 
 Session 1: [Version Control](session1_github.md)
 Session 2: [Data Input](session2_data_input.md)
